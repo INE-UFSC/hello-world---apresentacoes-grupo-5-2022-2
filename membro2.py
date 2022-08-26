@@ -1,2 +1,2 @@
 def hello():
-	return "Olá, eu sou o membro2" #escreva aqui a sua apresentação - nome, idade, hobbies, experiência prévia de programação, e o que você espera desta disciplina
+    return "Olá, eu sou Fabricio Duarte Júnior, tenho 19 anos e sou natural de São João Batista. Meus principais hobbies são ler, aprender outras línguas, colecionar palavras e expressões legais e tentar levar softwares mal programados a fazerem coisas que eles não deveriam fazer. Eu já programei uma quantidade razoável de coisas aleatórias com tecnologias diferentes por hobby, curiosidade ou em razão do curso técnico que fiz durante o Ensino Médio. Ao final da disciplina, espero ter uma melhor noção dos conceitos de programação orientada a objetos."
