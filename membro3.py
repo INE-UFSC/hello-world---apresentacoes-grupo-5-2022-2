@@ -1,2 +1,2 @@
 def hello():
-	return "Olá, eu sou o membro3" #escreva aqui a sua apresentação - nome, idade, hobbies, experiência prévia de programação, e o que você espera desta disciplina
+	return "Olá, eu sou o Marcos Laureano Lacava, tenho 18 anos e nasci em Florianópolis. No meu tempo livre eu gosto de jogar ou tocar bateria - meus 2 hobbies. Antes de entrar no curso eu ja possuía experiência em Java e C#, que aprendi por curiosidade há alguns anos. Com o tempo fui usando esse conhecimento para desenvolver pequenos jogos no ensino médio. Nesta disciplina espero poder aprender a como usar os conceitos de POO para trabalhar em equipe e desenvolver projetos de forma eficiente."
